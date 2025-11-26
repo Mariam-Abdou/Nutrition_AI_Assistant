@@ -15,7 +15,7 @@ Ask questions about your personalized diet plan and get intelligent, context-awa
 - **UI** - Streamlit-based chat interface
 
 ![UI](ui.png)
-![Demo](Demo.mp4)
+![Demo](demo.gif)
 
 ### Chat Interface
 ```
