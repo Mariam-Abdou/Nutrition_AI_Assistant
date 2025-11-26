@@ -14,6 +14,8 @@ Ask questions about your personalized diet plan and get intelligent, context-awa
 - **REST API** - FastAPI backend with full documentation
 - **UI** - Streamlit-based chat interface
 
+![UI](images/ui.png)
+
 ### Chat Interface
 ```
 👤 You: What should I eat for day 1 breakfast?
