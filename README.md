@@ -16,8 +16,6 @@ Ask questions about your personalized diet plan and get intelligent, context-awa
 
 ![UI](ui.png)
 
-![Demo](demo.gif)
-
 ### Chat Interface
 ```
 👤 You: What should I eat for day 1 breakfast?
