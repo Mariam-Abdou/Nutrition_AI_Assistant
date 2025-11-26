@@ -14,7 +14,7 @@ Ask questions about your personalized diet plan and get intelligent, context-awa
 - **REST API** - FastAPI backend with full documentation
 - **UI** - Streamlit-based chat interface
 
-![UI](ui)
+![UI](ui.png)
 
 ### Chat Interface
 ```
